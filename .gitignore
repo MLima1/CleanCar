@@ -52,3 +52,10 @@ CodeCoverage/
 *.VisualState.xml
 TestResult.xml
 nunit-*.xml
+
+# GitHub Copilot
+.copilot/
+.copilot.json
+
+# Appsettings.Develop
+appsettings.Development.json
