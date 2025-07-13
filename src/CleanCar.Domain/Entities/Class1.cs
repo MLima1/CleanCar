@@ -1,4 +1,4 @@
-﻿namespace CleanCar.Domain
+﻿namespace CleanCar.Domain.Entities
 {
     public class Class1
     {
